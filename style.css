@@ -70,8 +70,8 @@ img.sidhuvudbild{
   border-radius: 10%;
 }
 img.profilbild{
-  width: 300px;
-  border-radius: 50%;
+  width: 100px;
+  border-radius: 10%;
   
 }
 img:hover {
