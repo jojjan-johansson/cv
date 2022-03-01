@@ -1,0 +1,63 @@
+[      
+    {
+         "utbildning1": "Programmering1",
+         "skola": "CUL",
+         "hp":"Gymnasie P" ,
+         "år": "2005"
+    },
+    {
+        
+         "utbildning2": "Microsoft Office specialist",
+         "skola": "CUL",
+         "hp":"Vuxenstudier" ,
+         "år": "2005"
+           
+    },
+    { 
+        "utbildning3": "Företggsekonomi",
+        "skola": "Linné Universitetet",
+        "hp":"Hp 7,5",
+        "år": "2020"
+       
+    },
+    {
+        "utbildning4": "Företggsekonomi",
+        "skola": "Linné Universitetet",
+        "hp":"Hp 7,5" ,
+        "år": "2020"
+    },
+    {
+        "utbildning5": "Industriellekonomi ",
+        "skola": "Linné Universitetet",
+        "hp":"Hp 7,5" ,
+        "år": "2020"
+    },
+   {
+        "utbildning6": "Programmering med C# och .Net",
+        "skola": "Edugrade",
+        "hp":"40 Yhp" ,
+        "år": "2021"
+   },
+   {
+        "utbildning7": "Praktisk objektorienterad programmering",
+        "skola": "Edugrade",
+        "hp":"20 Yhp" ,
+        "år": "2021"
+   },
+   {
+    "utbildning8": "Projektledning &Agila metoder",
+    "skola": "Edugrade",
+    "hp":"35 Yhp" ,
+    "år": "2021"
+   },
+   {
+    "utbildning9": "Programmering av databaser & SQL",
+    "skola": "Edugrade",
+    "hp":"35 Yhp" ,
+    "år": "2021"
+   }
+  
+   
+    
+] 
+
